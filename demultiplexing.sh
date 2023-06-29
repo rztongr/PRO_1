@@ -1,0 +1,1 @@
+python /home/renzt/PRO/demultiplexing.py -i /home/renzt/PRO/examples/testdata/sequencing_fastq -b /home/renzt/PRO/examples/testdata/12.csv -f /home/renzt/PRO/examples/testdata/flankings.fasta -o /home/renzt/PRO/examples/testoutput/dex_result -t 10
